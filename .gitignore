@@ -3,3 +3,6 @@ __pycache__
 # Files from mac
 .DS_Store
 __MACOSX
+
+# Dataset
+./data
