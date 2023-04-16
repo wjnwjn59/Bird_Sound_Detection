@@ -1,3 +1,7 @@
 librosa
 tensorflow
 gdown
+pandas
+numpy
+matplotlib
+argparse
